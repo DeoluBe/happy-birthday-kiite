@@ -41,8 +41,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const targetDay = 7;
   const targetMonthIndex = 11; // December
-  const targetYear = 2024;
-  const birthYear = 2001;
+  const targetYear = 2025;
+  const birthYear = 2000;
 
   let currentDay = 1;
   let currentMonthIndex = 0;
