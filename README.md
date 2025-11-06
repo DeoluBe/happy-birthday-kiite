@@ -57,4 +57,4 @@ Contributions are welcome! If you have ideas to improve this project, feel free 
 
 Let’s make birthdays even more special together! 🎉  
 
-optimized
+optimize
